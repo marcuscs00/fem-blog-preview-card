@@ -123,8 +123,7 @@ p {
 
 .header-image {
   margin: 0 auto;
-  border-radius: 10px;
-  /* Bug: why doesn't the border-radius apply for less than 375px */
+  border-radius: 10%;
 }
 
 .tag {
