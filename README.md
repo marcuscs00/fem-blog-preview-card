@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Github Pages](https://marcuscs00.github.io/fem-blog-preview-card/)
 
 ## My process
