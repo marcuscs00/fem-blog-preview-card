@@ -95,6 +95,9 @@ main {
     max-width: 24rem;
     padding: 24px;
     box-shadow: 8px 8px black;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px 0 0 1px;
     border-radius: 20px;
     margin: 0 1rem;
 }
