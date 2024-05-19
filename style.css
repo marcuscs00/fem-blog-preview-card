@@ -76,6 +76,11 @@ textarea:not([rows]) {
 
 /* End of CSS Reset */
 
+@font-face {
+  font-family: Figtree;
+  src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
 body {
     background-color: hsl(47, 88%, 63%);
     font-family: Figtree;
