@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned to use `content-fit` on the `width` of an element to have the div take up the width of the content for the blog's tag element.
+I learned to use `fit-content` on the `width` of an element to have the div take up the width of the content for the blog's tag element.
 
 ### Continued development
 
