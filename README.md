@@ -29,6 +29,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-with-flexbox-IbGK382KyO)
 - Live Site URL: [Github Pages](https://marcuscs00.github.io/fem-blog-preview-card/)
 
 ## My process
