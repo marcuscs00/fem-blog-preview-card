@@ -54,8 +54,6 @@ I learned to use `fit-content` on the `width` of an element to have the div take
 
 ### Useful resources
 
-- [ChatGPT](https://chatgpt.com) - I asked it a question about the `border-radius` property not showing up when the header image started to shrink. ChatGPT said that it's because the `border-radius` property being applied to the image gets less visible as the image shrinks, because the image has less space to spread out.
-
 - [Stack Overflow](https://stackoverflow.com/) - I learned about the `fit-content` value from here.
 
 ## Author
