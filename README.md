@@ -46,8 +46,6 @@ I learned to use `fit-content` on the `width` of an element to have the div take
 
 ### Continued development
 
-- I want to learn about how to use the `vw` unit to scale text based on viewport width.
-
 - I want the padding for the blog preview card element to take into account the `box-shadow` on the right and bottom sides. I don't know how this will be done.
 
 - I want the height for the blog component to match the design, right now it is a lot larger than it appears on the design.
